@@ -1,0 +1,12 @@
+Propulsion System is now active.
+Propulsion system is ready for launch.
+Life Support System is now active.
+Life support system activated and stabilizing environment.
+Navigation System is now active.
+Navigation activated and stabilizing environment.
+All systems active
+Cannot perform spaceflight, fuel level is not enough!
+Propulsion System is now standby.
+Life Support System is now standby.
+Navigation System is now standby.
+Explore mission start failed!

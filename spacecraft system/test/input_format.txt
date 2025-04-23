@@ -1,0 +1,4 @@
+propulSys,<energey_consump>,<fuel_level>,<fuel_consump_per_km>
+supportSys,<energey_consump>,<temperature><oxygen_level>,<oxygen_coeff>
+navSys,<energey_consump>,<start_latitude>,<start_longitude>
+exploreMission,<latitude>,<longitude>,<duration><temperature>

@@ -1,0 +1,15 @@
+Propulsion System is now active.
+Propulsion system is ready for launch.
+Life Support System is now active.
+Life support system activated and stabilizing environment.
+Navigation System is now active.
+Life support system activated and stabilizing environment.
+All systems active
+Explore mission is started
+Spacecraft Status: Test Spacecraft
+Propulsion System Status: Operating at 1550.3% fuel
+Fuel Level: 1550.2702324928255
+Life Support System Status: Oxygen Level: 29%, Temperature: 19.0°C
+Navigation System Status: Active
+Current Latitude: 30.0 CurrentLongitude: 30.0
+Explore rescue mission is ended
